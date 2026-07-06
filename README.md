@@ -1,7 +1,7 @@
 # Luciano Henrique Morais Girão
 
 **AWS / Cloud Support Junior • Analista Cloud Jr / Suporte Cloud**  
-Praia Grande/SP • [LinkedIn](https://www.linkedin.com/in/lucianogirao) • [GitHub](https://github.com/lucianowtp1-stack) • 📧 lucianowtp@gmail.com
+Praia Grande/SP • [LinkedIn](https://www.linkedin.com/in/lucianogirao) • [GitHub](https://github.com/luciano-girao) • 📧 lucianowtp@gmail.com
 
 ---
 
@@ -46,8 +46,8 @@ Busco vagas como **AWS / Cloud Support Junior** ou **Analista Cloud Jr / Suporte
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucianowtp1-stack&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianowtp1-stack&layout=compact&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luciano-girao&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciano-girao&layout=compact&theme=dark&hide_border=true)
 
 ---
 
@@ -62,57 +62,36 @@ Busco vagas como **AWS / Cloud Support Junior** ou **Analista Cloud Jr / Suporte
 
 ### 1. aws-ops-scripts
 Repositório com **scripts Bash focados em operações AWS**, automação de tarefas e reforço de segurança em ambientes de nuvem.
-- Criação automatizada de instâncias EC2 para laboratórios
-- Scripts para instalação/configuração de serviços (ex.: Apache, Nginx)
-- Ferramentas para fechar portas expostas e revisar Security Groups
 
-🔗 [Acessar repositório](https://github.com/lucianowtp1-stack/aws-ops-scripts)
+🔗 [Acessar repositório](https://github.com/luciano-girao/aws-ops-scripts)
 
 ---
 
 ### 2. aws-stepfunctions-serverless-orchestration-demo
 Demonstração de **orquestração serverless** usando AWS Step Functions integrando funções Lambda e outros serviços AWS.
-- Modelagem de fluxos com estados de sucesso, erro e retries
-- Exemplo prático de arquitetura orientada a eventos
-- Foco em legibilidade e didática para estudos de arquitetura serverless
 
-🔗 [Acessar repositório](https://github.com/lucianowtp1-stack/aws-stepfunctions-serverless-orchestration-demo)
+🔗 [Acessar repositório](https://github.com/luciano-girao/aws-stepfunctions-serverless-orchestration-demo)
 
 ---
 
 ### 3. aws-cloudsupport-lab
 Coleção de **laboratórios voltados para Cloud Support**, simulando cenários reais de troubleshooting em AWS e Linux.
-- Problemas de conectividade (Security Groups, firewall, DNS, rotas)
-- Serviços parando (systemd, logs, espaço em disco)
-- Enfoque em raciocínio de suporte: identificar sintomas, confirmar hipóteses e aplicar correção
 
-🔗 [Acessar repositório](https://github.com/lucianowtp1-stack/aws-cloudsupport-lab)
+🔗 [Acessar repositório](https://github.com/luciano-girao/aws-cloudsupport-lab)
+
+---
+
+### 4. terraform-dreamsquad-lab
+Laboratório de **infraestrutura como código (IaC)** com Terraform para provisionamento de recursos AWS.
+
+🔗 [Acessar repositório](https://github.com/luciano-girao/terraform-dreamsquad-lab)
 
 ---
 
 ## 🌎 About me (English)
 
 IT professional transitioning into **Cloud Computing**, with a strong background in hardware support, troubleshooting and customer service. Currently focused on **AWS, Linux and Cloud Operations**, building labs, scripts and real-world scenarios to simulate day-to-day work as **Cloud Support / NOC / Infra Engineer**.  
-Looking for opportunities as **AWS / Cloud Support Junior** or **Cloud Support Engineer Jr**, where I can combine hands-on technical skills with incident analysis and structured operations.
-
----
-
-## 🧰 Tech stack
-
-**Cloud & Infra**
-- AWS (EC2, IAM, VPC, S3, CloudWatch, Lambda, Step Functions)
-- Basic Azure knowledge (IaaS/PaaS concepts)
-- Networking basics (TCP/IP, DNS, HTTP, load balancing concepts)
-
-**Systems & Automation**
-- Linux (shell, services, systemd, logs, SSH)
-- Bash scripting for AWS CLI automation and server tasks
-- Basic PowerShell for Windows support environments
-
-**Operations & Support**
-- Incident handling, log analysis and root cause investigation
-- N1/N2 support experience, SLAs and user communication
-- Security best practices (MFA, least privilege, basic cloud hardening)
+Looking for opportunities as **AWS / Cloud Support Junior** or **Cloud Support Engineer Jr**.
 
 ---
 
@@ -122,4 +101,4 @@ Looking for opportunities as **AWS / Cloud Support Junior** or **Cloud Support E
 - Analista Cloud Jr / Suporte Cloud
 - NOC / Infraestrutura focado em ambientes de nuvem
 
-Se quiser conversar sobre **cloud, suporte, automação ou labs de estudo**, fique à vontade para entrar em contato via [LinkedIn](https://www.linkedin.com/in/lucianogirao) ou abrir uma issue em algum repositório.
+Se quiser conversar sobre **cloud, suporte, automação ou labs de estudo**, entre em contato via [LinkedIn](https://www.linkedin.com/in/lucianogirao).
